@@ -2,6 +2,12 @@
 SF Restuarant Analysis using spark 
 
 
+Here I have used Apache Spark on Databricks community Edition server
+and Scala as the programming language to perform analysis on SF 
+Restaurant dataset.The text file in the folder
+contains a link to the published notebook.
+
+
 San Fransisco Restaurants are inspected by the Health Department and
 has developed an inspection report and scoring system. After conducting
 an inspection of the facility, the Health Inspector calculates a score
@@ -20,7 +26,3 @@ Record violations that are low risk or have no immediate risk to the
 public health and safety fall into low risk category.
 The score card that will be issued by the inspector is maintained at
 the food establishment and is available to the public in this dataset.
-
-Here I have used Apache Spark on Databricks community Edition server
-and Scala as the programming language.The text file in the folder
-contains a link to the published notebook.
